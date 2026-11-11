@@ -64,4 +64,4 @@ print("\nTemperature monitoring completed.")
 NORMAL: Average temperature is below 60°C.
 HOT: Average temperature is between 60°C and 80°C.
 CRITICAL: Average temperature is above 80°C.
-It also recommends what the operator should do.#
+It also recommends what the operator should do.
