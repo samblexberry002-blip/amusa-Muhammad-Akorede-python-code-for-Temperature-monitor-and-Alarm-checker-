@@ -55,3 +55,13 @@ else:
     print("Recommendation: Machine temperature is okay.")
 
 print("\nTemperature monitoring completed.")
+
+
+
+
+
+#I added an extra feature that automatically checks the average temperature and gives the machine a health status.
+NORMAL: Average temperature is below 60°C.
+HOT: Average temperature is between 60°C and 80°C.
+CRITICAL: Average temperature is above 80°C.
+It also recommends what the operator should do.#
